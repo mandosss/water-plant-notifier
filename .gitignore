@@ -1,0 +1,9 @@
+
+# Client
+HTTP_Client.*
+JLinkLog.txt
+Objects/
+Listings/
+
+# MacOS
+.DS_Store
